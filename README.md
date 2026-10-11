@@ -1,7 +1,3 @@
-# DLP Assignment 2 — Section B: Robust CIFAR-10 with 500 training images
-
-PyTorch / torchvision notebook: `CIFAR10_SectionB_Colab_SelfGenerated_Shifted__1_.ipynb`
-(rename to `DL_ASS01_XXF_YYYY.ipynb` before submission).
 
 ## How to reproduce
 1. Open the notebook in Google Colab, **Runtime -> Change runtime type -> GPU**.
